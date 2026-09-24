@@ -1,2 +1,2 @@
-# PetiteDB
-Small databse tool (for myself, but feel free to use lol)
+# LarpData/LarpDemand
+Small DB for notes
